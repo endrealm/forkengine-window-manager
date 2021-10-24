@@ -1,0 +1,19 @@
+{
+  "name": "forkengine-window-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endrealm/forkengine-window-manager.git"
+  },
+  "author": "CreepyPvP <interruptedThread@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/endrealm/forkengine-window-manager/issues"
+  },
+  "homepage": "https://github.com/endrealm/forkengine-window-manager#readme"
+}
