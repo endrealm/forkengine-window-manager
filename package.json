@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/endrealm/forkengine-window-manager#readme",
   "dependencies": {
-    "flexlayout-react": "^0.5.18"
+    "flexlayout-react": "^0.5.18",
+    "rx": "^4.1.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.32",
